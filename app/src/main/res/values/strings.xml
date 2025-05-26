@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MessCartoon</string>
+    <string name="mainPageApiUrl">https://www.copy-manga.com/api/v3/h5/homeIndex?platform=3</string>
+    <string name="pc_ua">COPY/2.2.6</string>
+    <string name="copy_version" >2.2.6</string>
+    <string name="home">首页</string>
+    <string name="mine">我</string>
+    <string name="category">分类</string>
+    <string name="comic_recommend">漫画推荐</string>
+    <string name="comic_topics">专题系列</string>
+    <string name="comic_hot">热门更新</string>
+    <string name="comic_new">最新上架</string>
+    <string name="comic_finished">完结漫画</string>
+    <string name="comic_rank">排行榜</string>
+    <string name="newest_comic">最新上架</string>
+    <string name="rank_type_day">day</string>
+    <string name="add_shelf">加入书架</string>
+    <string name="start_read">开始阅读</string>>
+    <string name="continue_read">继续阅读</string>
+    <string name="shelf_continue">续看</string>
+    <string name="shelf_start">开始</string>
+    <string name="location">区域</string>
+    <string name="region">区域</string>
+    <string name="popular">热度</string>
+    <string name="comic_status">状态</string>
+    <string name="recently_update">最近更新</string>
+    <string name="retry">重试</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_confirm">确定</string>
+    <string name="prev_chapter">上一话</string>
+    <string name="tip_jump_to_prev_chapter">是否跳转到上一话？</string>
+    <string name="next_chapter">下一话</string>
+    <string name="tip_jump_to_next_chapter">是否跳转到下一话？</string>
+    <string name="tip_first_chapter">当前为第一话</string>
+    <string name="tip_newest_chapter">当前为最新一话</string>
+    <string name="release_to_prev_chapter">下拉跳转到上一章</string>
+    <string name="pull_down_for_prev_chapter">松开跳转到上一章</string>
+    <string name="comic_unknown_updatetime">暂无更新记录</string>
+    <string name="remove_shelf">移出书架</string>
+    <string name="shelf">书架</string>
+    <string name="update_time">更新时间:</string>
+    <string name="comic_serialization">连载中</string>
+    <string name="comic_ending">已完结</string>
+    <string name="delete_from_shelf">移出书架</string>
+    <string name="comic_update_to_chapter">更新至:</string>>
+</resources>
