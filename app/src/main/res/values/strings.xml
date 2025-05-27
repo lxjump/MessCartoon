@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">MessCartoon</string>
     <string name="mainPageApiUrl">https://www.copy-manga.com/api/v3/h5/homeIndex?platform=3</string>
-    <string name="pc_ua">COPY/2.2.6</string>
-    <string name="copy_version" >2.2.6</string>
+    <string name="pc_ua">COPY/2.2.9</string>
+    <string name="copy_version" >2.2.9</string>
     <string name="home">首页</string>
     <string name="mine">我</string>
     <string name="category">分类</string>

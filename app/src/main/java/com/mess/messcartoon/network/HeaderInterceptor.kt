@@ -23,6 +23,10 @@ class HeaderInterceptor(context: Context) : Interceptor {
         "version" to version,
         "authorization" to "Token $token",
         "platform" to "3",
+        "device" to "AP4A.250250.002",
+        "deviceinfo" to "Pixel 6-oriole",
+        "referer" to "com.copymanga.app-${version}",
+        "umstring" to ""
         // 其他静态请求头...
     )
 

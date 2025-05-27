@@ -38,7 +38,7 @@ interface ApiService {
     @GET("comics")
     suspend fun getComics(): List<Comic>
 
-    @GET("api/v3/h5/homeIndex?platform=3")
+    @GET("api/v3/h5/homeIndex2?platform=3")
     suspend fun fetchHome(): ApiResponse<HomeData>
 
     @GET("api/v3/recs")
